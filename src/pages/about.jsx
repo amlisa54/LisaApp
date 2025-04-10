@@ -8,7 +8,7 @@ function About(){
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat possimus alias at accusamus ipsum est culpa laudantium ratione quibusdam doloribus, autem placeat quod unde ab officiis debitis ipsa amet veritatis?</p>
         </div>
 
-        <div className="imag">
+        <div className="image">
             <img src={down} alt="" />
         </div>
         </div>
